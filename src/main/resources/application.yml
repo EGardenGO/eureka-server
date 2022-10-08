@@ -13,4 +13,4 @@ spring:
   banner:
     location: classpath:banner/banner.txt
     image:
-     location: classpath:fotocreador/Egardengo.png   
+     location: classpath:fotocreador/egardengo.jpeg 
